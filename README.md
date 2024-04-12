@@ -22,5 +22,13 @@ Cálculo do PCA: Em seguida, ele aplica o PCA neste novo espaço de característ
 Projeção dos Dados: Os dados são projetados nos componentes principais encontrados, resultando em uma representação de menor dimensionalidade que preserva a estrutura não linear dos dados originais.
 
 
+Leitura:
+DataTechNotes. Kernel PCA Projection Example in Python. Janeiro de 2022.  Disponível em: < https://www.datatechnotes.com/2022/01/kernelpca-projection-example-in-python.html  >. Acesso em 04/01/2023
 
-Leitura: https://medium.com/pursuitnotes/day-47-kernel-pca-edfcedae3b64
+FREITAS, C.;  GOMES, E.; MOURA, D. Introdução a Machine Learning. Disponível em: < http://www.optma.ufal.br/eventos/presentations/Machine%20Learning%20-%20Part%202.pdf  >. Acesso em 04/01/2023
+
+MORAES, L.; CAVALCANTI, G. Análise de Componentes Principais (PCA). Disponível em: < https://www.cin.ufpe.br/~if699/NotasdeAula/13.analise_componentes_principais.pdf  >. Acesso em 04/01/2023
+
+HOBUS, Murilo. Seus primeiros passos com o PCA.  Agosto de 2021. Disponível em: < https://medium.com/turing-talks/seus-primeiros-passos-com-o-pca-ee411d4bc8d2  >. Acesso em 04/01/2023
+
+Seleção e extração de atributos. 12 de Junho de 2018. Disponível em: < https://www.facom.ufu.br/~backes/pgc204/Aula10-SelecaoAtributos.pdf  >. Acesso em 04/01/2023
