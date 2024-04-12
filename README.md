@@ -23,6 +23,7 @@ Projeção dos Dados: Os dados são projetados nos componentes principais encont
 
 
 Leitura:
+
 DataTechNotes. Kernel PCA Projection Example in Python. Janeiro de 2022.  Disponível em: < https://www.datatechnotes.com/2022/01/kernelpca-projection-example-in-python.html  >. Acesso em 04/01/2023
 
 FREITAS, C.;  GOMES, E.; MOURA, D. Introdução a Machine Learning. Disponível em: < http://www.optma.ufal.br/eventos/presentations/Machine%20Learning%20-%20Part%202.pdf  >. Acesso em 04/01/2023
